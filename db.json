@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "Name": "Product names",
+      "Price": "500",
+      "Oldprice": "340",
+      "Description": "This is the vegetable This is the vegetable This is the vegetable This is the vegetable ",
+      "id": 1
+    },
+    {
+      "Name": "Product name",
+      "Price": "40",
+      "Oldprice": "34",
+      "Category": "Fruits&Nuts",
+      "IsActive": "",
+      "Description": "This is the fruit This is the vegetable This is the vegetable This is the vegetable ",
+      "id": 2
+    },
+    {
+      "Name": "Orange",
+      "Price": "400",
+      "Oldprice": "340",
+      "Description": "This is the staples This is the vegetable This is the vegetable This is the vegetable ",
+      "id": 3
+    },
+    {
+      "Name": "Apple",
+      "Price": "150",
+      "Oldprice": "180",
+      "Description": "Casmir Apple",
+      "Category": "fruits_nuts",
+      "id": 5
+    }
+  ]
+}
